@@ -29,6 +29,29 @@
     </mj-head>
     </mj-head>
     <mj-body>
+    <!--Titre-->
+    <mj-section>
+        <mj-column width="480px">
+        <mj-text>
+            Journée de la diététique… une occasion unique à ne surtout pas manquer !
+        </mj-text>
+    <!--Texte-->
+        <mj-text>
+            Quand des étudiants déjà engagés dans la formation (BTS diététique ou Bachelor) choisissent d'échanger sur leur parcours ou d'animer un atelier thérapeutique...
+        </mj-text>
+        <mj-text>
+            Quand des professionnels chevronnés se mobilisent pour présenter les spécificités de leur métier et partager leur pratique avec des recrues motivées… 
+        </mj-text>
+        <mj-text>
+            Avouez que ce serait une véritable erreur de manquer ce rendez-vous.    
+        </mj-text>
+        <mj-text>
+            Vendredi 26, venez donner du sens à votre orientation et découvrir la véritable place du diététicien(ne) au sein d'une équipe et en structure de soin.
+        </mj-text>
+        </mj-column>
+        
+    </mj-section>
+
     <!--Accès au campus-->
         <mj-include path="layout/accescampus.mjml" />
     <!--Footer-->
