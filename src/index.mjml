@@ -49,11 +49,13 @@
             Vendredi 26, venez donner du sens à votre orientation et découvrir la véritable place du diététicien(ne) au sein d'une équipe et en structure de soin.
         </mj-text>
         </mj-column>
-        
     </mj-section>
 
     <!--Accès au campus-->
         <mj-include path="layout/accescampus.mjml" />
     <!--Footer-->
+        <mj-include path="layout/reseauxsociaux.mjml" />
+        <mj-include path="layout/adresse.mjml" />
+        <mj-include path="layout/reglements.mjml" />
     </mj-body>
 </mjml>

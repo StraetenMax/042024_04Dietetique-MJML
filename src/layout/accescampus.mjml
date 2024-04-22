@@ -1,5 +1,5 @@
 <mj-section background-color="#E9ECF2">
-        <mj-column width="590px">
+    <mj-column width="590px">
         <mj-text mj-class="Dsstitle">
             Comment s'y rendre    
         </mj-text>
@@ -18,5 +18,5 @@
         <mj-text padding-top="0" padding-bottom="0" mj-class="Dtext">
             <span style="font-weight:500;">Accès Voiture :</span> Tourcoing centre.
         </mj-text>
-        </mj-column>
-    </mj-section>
+     </mj-column>
+</mj-section>
