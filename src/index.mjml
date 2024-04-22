@@ -1,0 +1,36 @@
+<mjml>
+    <mj-head>
+        <mj-title>relance Journées de la Diététique</mj-title>
+    <!--font-->
+        <mj-font name="Roboto" href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap" />
+    <!--Bloquer Dark mode-->
+        <mj-raw>
+            <meta name="color-scheme" content="light"></meta>
+            <meta name="supported-color-schemes" content="light"></meta>
+        </mj-raw>
+    <!--attributes-->
+        <mj-attributes>
+            <mj-all font-family="Roboto, Arial, Helvetica, sans-serif" text-decoration="none" />
+            <mj-class name="Dsection" background-color="#ffffff" />
+            <mj-class name="Dtitle" font-size="36px" font-weight="300" line-height="40px" color="#A83163"/>
+            <mj-class name="Dstitle" font-size="24px" font-weight="700" line-height="28px" color="#EC619F"/>
+            <mj-class name="Dsstitle" font-size="16px" font-weight="700" line-height="20px" color="#A83163"/>
+            <mj-class name="Dtext" font-size="16px" font-weight="400" line-height="20px" color="#2D3748"/>
+            <mj-class name="Dfooter" font-size="12px" font-weight="400" line-height="16px" color="#2D3748"/> 
+            <mj-class name="Dspace" align="center" padding-top="0" padding-bottom="0"/>
+            <mj-button font-size="16px" font-weight="500" line-height="20px" background-color="#ec619f" color="#ffffff"></mj-button>  
+        </mj-attributes>
+        <mj-breakpoint width="550px" />
+        <mj-style>
+         .hover:hover td, .hover:hover a{ 
+                background-color:#a83163 !important;
+            }
+        </mj-style>
+    </mj-head>
+    </mj-head>
+    <mj-body>
+    <!--Accès au campus-->
+        <mj-include path="layout/accescampus.mjml" />
+    <!--Footer-->
+    </mj-body>
+</mjml>
