@@ -28,7 +28,7 @@
         </mj-style>
     </mj-head>
     </mj-head>
-    <mj-body>
+    <mj-body background-color="#edf2f7">
     <!--Titre-->
     <mj-section>
         <mj-column width="480px">
@@ -48,6 +48,32 @@
         <mj-text>
             Vendredi 26, venez donner du sens à votre orientation et découvrir la véritable place du diététicien(ne) au sein d'une équipe et en structure de soin.
         </mj-text>
+        </mj-column>
+    </mj-section>
+    <!--Programme-->
+    <mj-section>
+        <mj-column width="480px">
+            <mj-text>
+                Rencontre avec des élèves de fin de deuxième année de BTS qui parleront de leur parcours, de la formation, de leur vision du métier. 
+            </mj-text>
+            <mj-text>
+                Des élèves de Bachelor Chargé de Projet en Nutrition vous présenteront le métier de dététicien au travers de la participation à un atelier thérapeutique et lors de simulation et lors de simulation de consultations.
+            </mj-text>
+            <mj-text>
+                Présentation d'une structure de soin : La Clinique de la Chênaie de Rouvroy
+            </mj-text>
+            <mj-text>
+                Franz SCHIMMEL : directeur d'établissement
+            </mj-text>
+            <mj-text>
+                Ornella Vacca : directrice des soins
+            </mj-text>
+            <mj-text>
+                Emma Duarte : Diététicienne
+            </mj-text>
+            <mj-text>
+                Le fonctionnement d'une structure de soins, la coordination du travail en équipe pluridisciplinaire, la place du dététicien au sein d'une structure de soins.
+            </mj-text>
         </mj-column>
     </mj-section>
 
