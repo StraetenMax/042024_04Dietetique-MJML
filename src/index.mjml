@@ -30,7 +30,7 @@
     <mj-body background-color="#edf2f7">
     <mj-section padding="0">
         <mj-column width="600px">
-            <mj-image padding="0" src="src/img/JDiet01_042024.jpg" alt="Représentation de la diététique associée au logo d'Ecosup Diététique" />    
+            <mj-image padding="0" src="https://img.mailinblue.com/3403292/images/content_library/original/6627481c50f75418ad56fa48.jpg" alt="Représentation de la diététique associée au logo d'Ecosup Diététique" />    
         </mj-column>
     </mj-section>
     <!--Titre-->
@@ -64,7 +64,7 @@
     <!--Programme-->
     <mj-section background-color="#ffffff">
         <mj-column width="480px">
-        <mj-image src="src/img/jDiet02_042024.jpg" alt="Atelier thérapeutique" />
+        <mj-image src="https://img.mailinblue.com/3403292/images/content_library/original/66274822dcf3f56c44939c85.jpg" alt="Atelier thérapeutique" />
             <mj-text mj-class="Dstitle" padding-bottom="0">
                 Le programme de la Journée
             </mj-text>
