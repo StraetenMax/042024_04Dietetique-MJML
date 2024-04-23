@@ -50,6 +50,10 @@
         </mj-text>
         </mj-column>
     </mj-section>
+    <!--Bouton-->
+    <mj-include path="layout/button.mjml" />
+    <!--signature-->
+    <mj-include path="layout/signature.mjml" />
     <!--Programme-->
     <mj-section>
         <mj-column width="480px">
