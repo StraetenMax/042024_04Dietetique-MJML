@@ -1,0 +1,21 @@
+<mj-section background-color="#ffffff" padding="0">
+      <mj-group>
+            <mj-column padding="8px">
+                <mj-image align="right" padding="0" src="https://img.mailinblue.com/3403292/images/content_library/original/66175add12fbe9e05adb31d2.jpg" width="110px" alt="Jérome Poulain, responsable pédagogique d'Ecosup Diététique" />
+            </mj-column>
+            <mj-column padding="8px">
+                <mj-text padding="0" mj-class="Dtext" font-weight="700" >
+                    Jérôme <span style="text-transform:uppercase;">Poulain</span>
+                </mj-text>
+                <mj-text padding="0" mj-class="Dtext">
+                    Responsable pédagogique
+                </mj-text>
+                <mj-text padding="0" mj-class="Dtext">
+                    Ecosup Diététique
+                </mj-text>
+                <mj-text padding="0" mj-class="Dtext">
+                    Tourcoing
+                </mj-text>
+            </mj-column>
+            </mj-group>
+</mj-section>

@@ -1,5 +1,5 @@
 <mj-section background-color="#E9ECF2">
-    <mj-column width="590px">
+    <mj-column width="480px">
         <mj-text mj-class="Dsstitle">
             Comment s'y rendre    
         </mj-text>

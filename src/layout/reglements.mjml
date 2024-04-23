@@ -1,12 +1,12 @@
 <mj-section>
     <mj-column width="380px">
-        <mj-text mj-class="Dfooter Dspace">
-            Pour être sûr(e) de recevoir nos communications, ajoutez contact@ecosup-campus.fr dans votre carnet d'adresses.
+        <mj-text mj-class="Dfooter Dspace" align="center">
+            Pour être sûr(e) de recevoir nos communications, ajoutez <span style="text-decoration:none;color:#2D3748;">contact@ecosup-campus.fr</span> dans votre carnet d'adresses.
         </mj-text>
-        <mj-text mj-class="Dfooter Dspace">
+        <mj-text mj-class="Dfooter Dspace" align="center">
             <a href="{{ mirror }}">Afficher dans votre navigateur</a>               
         </mj-text>
-        <mj-text mj-class="Dfooter Dspace">
+        <mj-text mj-class="Dfooter Dspace" align="center">
             <a href="{{ unsubscribe }}">se désinscrire</a>
         </mj-text>
     </mj-column>

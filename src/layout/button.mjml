@@ -1,0 +1,7 @@
+<mj-section background-color="#ffffff">
+    <mj-column width="300px">
+        <mj-button href="https://forms.gle/pEc7CnC5uZDpDjbJ8" css-class="hover">
+            Inscrivez-vous
+        </mj-button>
+    </mj-column>
+</mj-section>
